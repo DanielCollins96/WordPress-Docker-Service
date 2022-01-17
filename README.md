@@ -11,7 +11,7 @@ http://localhost:8080/wp-login.php
 
 ## Accessing MySQL
 
-docker exec -it YOUR_SERVICE_NAME bash
+docker exec -it <YOUR_SERVICE_NAME> bash
 
 
 ## Shutdown
