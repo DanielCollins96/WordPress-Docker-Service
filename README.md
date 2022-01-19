@@ -13,6 +13,8 @@ http://localhost:8080/wp-login.php
 
 docker exec -it <YOUR_SERVICE_NAME> bash
 
+`mysql -u <user> -p <pass>`
+
 
 ## Shutdown
 
